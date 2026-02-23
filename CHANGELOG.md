@@ -2,9 +2,19 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.0.1">
 
-## Unreleased (2025-04-22)
+## 0.0.1 (2026-02-07)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.0">
+
+## 0.1.0 (2026-01-29)
 
 <section class="features">
 
@@ -32,7 +42,8 @@
 
 <details>
 
--   [`9b9c746`](https://github.com/stdlib-js/stdlib/commit/9b9c7468b6c0c0d2575bbeedbee96c9bcee64b26) - **chore:** update test messages in `constants/float32` [(#6773)](https://github.com/stdlib-js/stdlib/pull/6773) _(by Harsh)_
+-   [`f9651e6`](https://github.com/stdlib-js/stdlib/commit/f9651e6411b4ebd3c95dcc6b46c02e6d5be009fa) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
+-   [`9b9c746`](https://github.com/stdlib-js/stdlib/commit/9b9c7468b6c0c0d2575bbeedbee96c9bcee64b26) - **chore:** update test messages in `constants/float32` [(#6773)](https://github.com/stdlib-js/stdlib/pull/6773) _(by Harsh Yadav)_
 -   [`114115a`](https://github.com/stdlib-js/stdlib/commit/114115ac45b40f9c22064a8e49e99c2aee43ecb2) - **docs:** update related packages sections [(#4655)](https://github.com/stdlib-js/stdlib/pull/4655) _(by stdlib-bot)_
 -   [`a6c6531`](https://github.com/stdlib-js/stdlib/commit/a6c6531b274691265f245206cdd81ee53828ac3e) - **fix:** update directory name [(#2797)](https://github.com/stdlib-js/stdlib/pull/2797) _(by Gunj Joshi)_
 -   [`4ceec1a`](https://github.com/stdlib-js/stdlib/commit/4ceec1a04ca53795d43cca6264a957a369b825d8) - **docs:** fix comment [(#2756)](https://github.com/stdlib-js/stdlib/pull/2756) _(by Gunj Joshi)_
@@ -48,10 +59,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Gunj Joshi
--   Harsh
+-   Harsh Yadav
+-   Philipp Burckhardt
 
 </section>
 
